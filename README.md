@@ -1,2 +1,2 @@
 # DevOps
-devops files and all
+DevOps college programs
